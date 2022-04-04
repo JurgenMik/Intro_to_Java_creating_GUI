@@ -1,3 +1,4 @@
 # intro_toJava_creating_GUI
 
-// Introduction to Java and creating Graphical User Interfaces
+// First Introduction to Java 
+// I chose creating Graphical User Interfaces for the introduction in order to get a better understanding of the "general purpose" and syntax of Java.
